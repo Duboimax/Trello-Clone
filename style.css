@@ -72,7 +72,7 @@ button{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 200%;
+    width: 100%;
 }
 
 .add-item-btn, .add-container-btn{
